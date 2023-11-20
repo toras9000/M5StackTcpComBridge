@@ -2,19 +2,18 @@ using System;
 using System.Diagnostics;
 using System.Threading;
 
-namespace M5StackTcpComBridge
+namespace M5StackTcpComBridge;
+
+public class Program
 {
-    public class Program
+    public static void Main()
     {
-        public static void Main()
-        {
-            Debug.WriteLine("Hello from nanoFramework!");
+        Debug.WriteLine("Hello from nanoFramework!");
 
-            Thread.Sleep(Timeout.Infinite);
+        Thread.Sleep(Timeout.Infinite);
 
-            // Browse our samples repository: https://github.com/nanoframework/samples
-            // Check our documentation online: https://docs.nanoframework.net/
-            // Join our lively Discord community: https://discord.gg/gCyBu8T
-        }
+        // Browse our samples repository: https://github.com/nanoframework/samples
+        // Check our documentation online: https://docs.nanoframework.net/
+        // Join our lively Discord community: https://discord.gg/gCyBu8T
     }
 }

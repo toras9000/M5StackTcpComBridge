@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{11A8DD76-328B-46DF-9F39-F559912D0360}") = "M5StackTcpComBridge", "M5StackTcpComBridge\M5StackTcpComBridge.nfproj", "{A670891B-BC2E-4888-9EAE-C92B792255CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A670891B-BC2E-4888-9EAE-C92B792255CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A670891B-BC2E-4888-9EAE-C92B792255CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A670891B-BC2E-4888-9EAE-C92B792255CF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A670891B-BC2E-4888-9EAE-C92B792255CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A670891B-BC2E-4888-9EAE-C92B792255CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A670891B-BC2E-4888-9EAE-C92B792255CF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B2B0401-55E9-437D-A1BC-30E5147E697F}
+	EndGlobalSection
+EndGlobal
